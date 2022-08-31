@@ -1,5 +1,7 @@
 # PCC Cats - Transparent Bg
 
+![banner](./repo/banner.png)
+
 This repository contains PCC Cats with transparent background.
 
 Please use for fun and build around PCC.
