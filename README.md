@@ -14,7 +14,9 @@ Please use for fun and build around PCC.
 | 1000 × 1000px | WebP   | [0, 10000]    |
 
 > ID [0] is a transparent placeholder
+>
 > ID [10001, 10002] are not part of the NFTs minted
+>
 > ID [10001, 10002] are only available in PNG format now
 
 ## How to use
